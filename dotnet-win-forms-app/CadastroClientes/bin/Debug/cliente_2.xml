@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<Dados>
+  <Clientes>
+    <Codigo>2</Codigo>
+    <Nome>Teste</Nome>
+    <Fone>(11)2233-4455</Fone>
+    <Email>teste@teste.com</Email>
+  </Clientes>
+</Dados>

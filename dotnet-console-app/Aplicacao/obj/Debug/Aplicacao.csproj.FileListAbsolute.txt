@@ -1,0 +1,6 @@
+c:\users\win7vbox\documents\visual studio 2012\Projects\Aplicacao\bin\Debug\Aplicacao.exe.config
+c:\users\win7vbox\documents\visual studio 2012\Projects\Aplicacao\bin\Debug\Aplicacao.exe
+c:\users\win7vbox\documents\visual studio 2012\Projects\Aplicacao\bin\Debug\Aplicacao.pdb
+c:\users\win7vbox\documents\visual studio 2012\Projects\Aplicacao\obj\Debug\Aplicacao.csprojResolveAssemblyReference.cache
+c:\users\win7vbox\documents\visual studio 2012\Projects\Aplicacao\obj\Debug\Aplicacao.exe
+c:\users\win7vbox\documents\visual studio 2012\Projects\Aplicacao\obj\Debug\Aplicacao.pdb

@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<Dados>
+  <Clientes>
+    <Codigo>1</Codigo>
+    <Nome>Diogo</Nome>
+    <Fone>(21) 99999-9999</Fone>
+    <Email>diogo@gmail.com</Email>
+  </Clientes>
+</Dados>
